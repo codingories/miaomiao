@@ -26,7 +26,7 @@
     import TabBar from '@/components/TabBar';
 
     export default {
-        name : 'Movie',
+        name : 'Movie ',
         components: {
             Header,
             TabBar
